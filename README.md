@@ -1,2 +1,2 @@
 # java-cr-promot
-java
+ai codereview promot for java
